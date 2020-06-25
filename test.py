@@ -1,7 +1,7 @@
 import cv2
 
 cap = cv2.VideoCapture(0)
-
+### FUCK THIS COMMENT ####
 while (1):
     _, image = cap.read()
     cv2.imshow("show", image)
